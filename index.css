@@ -1,0 +1,38 @@
+body{
+  background-color: white;
+  cursor: url("http://ani.cursors-4u.net/cursors/images12/cur1103.gif"),auto;
+}
+body{
+  color: #001dff;
+}
+li{
+   font-family: 'Hind', sans-serif;
+}
+body{
+  font-family: 'Shadows Into Light', cursive;
+}
+header {
+ text-align: center;
+ background: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbQ3QGU_pVAufo_5TDA53F2m11cNeMdQHpkhZlYYOV9L_Y6-YIrw");
+ background-size: cover;
+ }
+ul{
+ padding: 10px;
+}
+li {
+ display: inline;
+ padding: 0px 10px 0px 10px;
+ }
+/* article{
+  display: inline-block;
+  width: 30%;
+    margin: 1%;
+} */
+img{
+  height:200px;
+    border: 5px solid Blue;
+}
+img:hover{
+  height: 350px;
+  transform: rotate(15deg);
+}
